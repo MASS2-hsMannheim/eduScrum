@@ -5,3 +5,5 @@ sympy
 jupyter
 nose
 tabulate
+ipywidgets
+jupyter_contrib_nbextensions
