@@ -7,3 +7,4 @@ nose
 tabulate
 ipywidgets
 jupyter_contrib_nbextensions
+ipympl
