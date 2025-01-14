@@ -8,6 +8,3 @@ tabulate
 ipywidgets
 jupyter_contrib_nbextensions
 ipympl
-notebook==6.*
-jupyter-server==1.*
-jupyterlab==3.*
